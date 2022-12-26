@@ -17,7 +17,7 @@ body {
     
     width: auto;
     height: 250px;
-    background-image: url(img/leira.jpg);    
+    background-image: url(leira.jpg);    
     background-size: cover;
 }
 
@@ -108,7 +108,7 @@ body {
     width: 150px;
     height: 200px;
     border:1px solid gray;
-    background-image: url(img/trond.jpg);
+    background-image: url(trond.jpg);
     background-size: cover;
     
     border-radius: 20px
